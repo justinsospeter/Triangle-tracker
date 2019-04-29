@@ -5,4 +5,12 @@ body {
 
 .form-group input {
   width: 10%;
+  length: 5%;
 }
+
+.btn-btn-sm-btn-primary button {
+  width: 10;
+}
+ section {
+    text-align: center;
+ }
