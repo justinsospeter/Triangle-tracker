@@ -11,6 +11,11 @@ body {
 .btn-btn-sm-btn-primary button {
   width: 10;
 }
- section {
-    text-align: center;
- }
+
+section {
+  text-align: center;
+}
+.form-group {
+  font-display: block;
+  font-size: 30px;
+}
