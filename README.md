@@ -37,7 +37,6 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
     <td>2,4,1</td> 
     <td>scalene</td>
   </tr>
-</table>
  <tr>
     <td>sum of two sides<=third side</td>
     <td>2,2,1</td> 
