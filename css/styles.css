@@ -6,6 +6,7 @@ body {
 .form-group input {
   width: 10%;
   length: 5%;
+  color: grey;
 }
 
 .btn-btn-sm-btn-primary button {
@@ -15,15 +16,23 @@ body {
 section {
   text-align: center;
 }
+
 .form-group {
   font-display: block;
   font-size: 30px;
   padding-bottom: 30px;
 }
+
 h1 {
   font-size: 60px;
+  color: white;
 }
+
 h3 {
   font-weight: normal;
   font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+.btn-btn-sm-btn-primary {
+  padding-bottom: 30px;
 }
