@@ -1,0 +1,29 @@
+h1 {
+    color: white;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+
+h3 {
+    color: white;
+}
+
+p {
+    color: white;
+    
+}
+
+div {
+    color: white;
+    
+}
+body {
+    background-color: black;
+    
+}
+.dl {
+    color: orange;
+}
+.dd {
+    color: white;
+}
