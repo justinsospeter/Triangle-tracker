@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css?family=Montserrat:400,600");
+@import url("https://fonts.googleapis.com/css?family=Lora");
+
+body {
+    background-color: rgb(16, 52, 73);
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    letter-spacing: -0.2px;
+    color: rgb(174, 187, 194);
+}
+
+a {
+    color: rgb(133, 208, 248);
+}
+
+a:hover {
+    color: rgb(235, 244, 250);
+}
+
+li {
+    font-size: 1rem;
+    line-height: 1rem;
+    margin-bottom: 0.75rem;
+}
+
+.joash-img {
+    height: 120vh;
+    background-image: url("../img/IMG-20190411-WA0067.jpg");
+    background-size: cover;
+    background-position: center center;
+}
+
+.content {
+    padding: 2.5rem;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.joash-name {
+    font-size: 1.125rem;
+    font-weight: 500;
+    line-height: 1rem;
+    margin-bottom: 2.5rem;
+    letter-spacing: 0.4px;
+    color: rgb(156, 182, 206);
+}
+
+.bio {
+    padding: 1.875rem 0rem;
+    font-size: 1.313rem;
+    line-height: 2rem;
+
+}
+
+.joash-tagline {
+    font-weight: 600;
+    font-size: 3rem;
+    line-height: 4rem;
+    letter-spacing: -0.125rem;
+    color: #CFCFCF;
+}
+
+.list-headings {
+    color: rgb(107, 142, 177);
+    font-weight: 600;
+    font-size: 0.875rem;
+    line-height: 0.75rem;
+    margin-bottom: 1.25rem;
+    letter-spacing: 0.125rem;
+    opacity: 0.5;
+}
+
